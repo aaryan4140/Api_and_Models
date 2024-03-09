@@ -1,18 +1,18 @@
-APIs for AI Model Interaction
+## APIs for AI Model Interaction
 
 This repository contains scripts and examples for interacting with various AI models through APIs. Below are explanations of the different APIs and their functionalities:
 
-1. Hugging Face API
+### 1. Hugging Face API
 
 **Description**:
 - The Hugging Face API allows access to a range of open-source models.
 - We can query models like "Mistral-7B" to generate text based on input prompts.
 
-Usage:
+**Usage**:
 - The script sets up the API URL and headers with an API token.
 - It demonstrates sending a question prompt to the "Mistral-7B" model and receiving a response, such as information about the capital of India.
 
-2. OpenAI GPT API
+### 2. OpenAI GPT API
 
 **Description**:
 - The OpenAI GPT API provides access to advanced language models.
